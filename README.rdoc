@@ -1,0 +1,6 @@
+= Transl8r
+A ruby task library that will help you translate your locale yaml files to other languages using Goole Translate
+
+== Usage
+  
+  rake i18n:translate 
